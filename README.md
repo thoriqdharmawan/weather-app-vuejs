@@ -65,5 +65,3 @@ A simple and beautiful weather app built with Vue.js, powered by **Mapbox** for 
 - **axios**: For making API requests
 - **vue-router**: For handling app routing
 - **uid**: For generating unique IDs
-
-## 📸 Screenshots
