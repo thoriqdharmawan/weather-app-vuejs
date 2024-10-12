@@ -19,7 +19,7 @@ A simple and beautiful weather app built with Vue.js, powered by **Mapbox** for 
 
    ```bash
    git clone https://github.com/thoriqdharmawan/weather-app-vuejs.git
-   cd weather-app
+   cd weather-app-vuejs
    ```
 
 2. Install dependencies:
